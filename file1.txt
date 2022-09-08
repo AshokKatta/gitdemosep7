@@ -1,2 +1,4 @@
 welcome,first line
 second line
+night
+morning
